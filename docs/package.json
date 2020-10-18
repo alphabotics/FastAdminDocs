@@ -1,0 +1,19 @@
+{
+  "name": "FastAdminDocs",
+  "version": "0.0.1",
+  "description": "The official documentation site for FastAdmin.",
+  "main": "index.js",
+  "authors": {
+    "name": "Alphabotics Ltd",
+    "email": "support@alphabotics.tech"
+  },
+  "repository": "https://github.com/alphabotics/FastAdmin/FastAdminDocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
