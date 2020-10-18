@@ -5,11 +5,11 @@ tagline: The official documentation site for FastAdmin.
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Fast Restful API
+  details: Full features for API Authentication, Authorization.
+- title: Code Generator
+  details: Auto generate CRUD module with FastAdmin-Generator.
+- title: Beautiful Dashboard
+  details: Beauty with material design base on Vuetify.
 footer: Made by Alphabotics Ltd with ❤️
 ---
